@@ -1,3 +1,9 @@
+
+！19kan
 /vfedcc.js
 
-www.19kan.com##.fed-hide-sm.fed-line-top.fed-min-width.fed-back-whits.fed-tabr-info
+
+! 百度小说
+##div[class*="fengchao ec-novel-ad"]
+baidu.com##div[class*="bottomOperateTop"]
+baidu.com##div[class*="RecommendContent"]
